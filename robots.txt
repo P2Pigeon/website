@@ -1,0 +1,8 @@
+# robots.txt for https://pigeon.bot
+
+# Allow all search engines to crawl the site
+User-agent: *
+Disallow:
+
+# Point to the sitemap
+Sitemap: https://pigeon.bot/sitemap.xml
